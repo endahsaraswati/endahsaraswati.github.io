@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en"> 
 <head>
 	<title>Endah Saraswati</title>
@@ -315,10 +314,10 @@
                             <section class="skills-section py-3">
                                 <h3 class="text-uppercase resume-section-heading mb-4">Contact</h3>
                                     <ul class="list-unstyled resume-lang-list">
-                                        <li class="mb-2"><i class="fab fa-whatsapp fa-2x mr-2" data-fa-transform="down-4"></i> +6287775940866</span></li>
-                                        <li class="mb-2"><i class="fab fa-instagram fa-2x mr-2" data-fa-transform="down-4"></i> endahsrswt</span></li>
-                                        <li class="mb-2"><i class="fas fa-envelope-square fa-2x mr-2" data-fa-transform="down-4"></i> saraswati.endah22@gmail.com</span></li>
-                                        <li class="mb-2"><i class="fab fa-linkedin fa-2x mr-2" data-fa-transform="down-4"></i> linkedin.com/in/endah-saraswati-a90941182</span></li>
+                                        <li class="mb-2"><i class="fab fa-whatsapp fa-2x mr-2" data-fa-transform="down-4"></i> +6287775940866</li>
+                                        <li class="mb-2"><i class="fab fa-instagram fa-2x mr-2" data-fa-transform="down-4"></i> endahsrswt</li>
+                                        <li class="mb-2"><i class="fas fa-envelope-square fa-2x mr-2" data-fa-transform="down-4"></i> saraswati.endah22@gmail.com</li>
+                                        <li class="mb-2"><i class="fab fa-linkedin fa-2x mr-2" data-fa-transform="down-4"></i> linkedin.com/in/endah-saraswati-a90941182</li>
                                     </ul>
                             </section>
 									
