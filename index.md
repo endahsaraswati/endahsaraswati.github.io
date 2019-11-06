@@ -1,1 +1,341 @@
-it work!
+<!DOCTYPE html>
+<html lang="en"> 
+<head>
+	<title>Endah Saraswati</title>
+	
+	<!-- Meta -->
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="description" content="Curriculum Vitae Endah Saraswati">
+	<meta name="author" content="Endah Saraswati">    
+	<link rel="shortcut icon" href="favicon.ico"> 
+	
+	<!-- Google Fonts -->
+	<link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900" rel="stylesheet">
+	
+	<!-- FontAwesome JS-->
+	<script defer src="https://use.fontawesome.com/releases/v5.8.1/js/all.js" integrity="sha384-g5uSoOSBd7KkhAMlnQILrecXvzst9TdC09/VM+pjDTCM+1il8RHz5fKANTFFb+gQ" crossorigin="anonymous"></script>
+	
+	<!-- Theme CSS -->  
+	<link id="theme-style" rel="stylesheet" href="style.css">
+
+</head> 
+
+<body>
+	
+	<!-- DEMO ONLY --> 
+	<div class="demo-banner px-2 py-3 text-white text-center font-weight-bold bg-primary">
+	</div>
+	
+	<div class="main-wrapper">
+		<div class="container px-3 px-lg-5">
+			<article class="resume-wrapper mx-auto theme-bg-light p-5 mb-5 my-5 shadow-lg">
+				
+				<div class="resume-header">
+					<div class="row align-items-center">
+						<div class="resume-title col-12 col-md-6 col-lg-8 col-xl-9">
+							<h2 class="resume-name mb-0 text-uppercase">Endah Saraswati</h2>
+							<div class="resume-tagline mb-3 mb-md-0">Chemical Engineer</div>
+						</div><!--//resume-title-->
+						<div class="resume-contact col-12 col-md-6 col-lg-4 col-xl-3">
+							<ul class="list-unstyled mb-0">
+								<li class="mb-2"><i class="fas fa-phone-square fa-fw fa-lg mr-2 "></i><a class="resume-link" href="tel:6287775940866">+62 8777 5940 866</a></li>
+								<li class="mb-2"><i class="fas fa-envelope-square fa-fw fa-lg mr-2"></i><a class="resume-link" href="mailto:saraswati.endah22@gmail.com">saraswati.endah22@gmail.com</a></li>
+								<li class="mb-0"><i class="fas fa-map-marker-alt fa-fw fa-lg mr-2"></i>D.I Yogyakarta, Indonesia</li>
+							</ul>
+						</div><!--//resume-contact-->
+					</div><!--//row-->
+					
+				</div><!--//resume-header-->
+				<hr>
+				<div class="resume-intro py-3">
+					<div class="media flex-column flex-md-row align-items-center">
+						<img class="resume-profile-image mb-3 mb-md-0 mr-md-5 ml-md-0 rounded mx-auto" src="endah.png" alt="Endah Saraswati">
+						<div class="media-body text-left">
+							<p class="mb-0">I am a fresh graduate, I like to learnsomething new, have ability to work under pressure. During my collage, I can do the overwhelming time management, proofed by the balance for both academic and non academic activity. I am an enthusiastic, dedicated, and highly motivated chemical engineer with proven leadership capabilities, who likes to take initiative and seek out new challenges. </p>
+						</div><!--//media-body-->
+					</div>
+				</div><!--//resume-intro-->
+				<hr>
+				<div class="resume-body">
+					<div class="row">
+						<div class="resume-main col-12 col-lg-8 col-xl-9 pr-0 pr-lg-5">
+
+							<section class="work-section py-3">
+								<h3 class="text-uppercase resume-section-heading mb-4">Education (formal)</h3>
+								<div class="item mb-3">
+									<div class="item-heading row align-items-center mb-2">
+										<h4 class="item-title col-12 col-md-6 col-lg-8 mb-2 mb-md-0">SMA Negeri 1 Cilegon</h4>
+										<div class="item-meta col-12 col-md-6 col-lg-4 text-muted text-left text-md-right">2012-2015</div>
+										
+									</div>
+									<div class="item-content">
+										<p>Departement of Natural Science</p>
+									</div>
+                                </div>
+                                <div class="item mb-3">
+                                    <div class="item-heading row align-items-center mb-2">
+                                        <h4 class="item-title col-12 col-md-6 col-lg-8 mb-2 mb-md-0">Universitas Islam Indonesia Yogyakarta</h4>
+                                        <div class="item-meta col-12 col-md-6 col-lg-4 text-muted text-left text-md-right">2015-2019</div>
+                                        
+                                    </div>
+                                    <div class="item-content">
+                                        <p>Bachelor Degree in Chemical Engineering with GPA <b>3.57</b>/4.00</p>
+                                    </div>
+                                </div>
+							</section>
+
+                            <section class="work-section py-3">
+                                <h3 class="text-uppercase resume-section-heading mb-4">Education (non formal)</h3>
+                                <div class="item mb-3">
+                                    <div class="item-heading row align-items-center mb-2">
+                                        <h4 class="item-title col-12 col-md-6 col-lg-8 mb-2 mb-md-0">TOP English Jogja</h4>
+                                        <div class="item-meta col-12 col-md-6 col-lg-4 text-muted text-left text-md-right">2019</div>
+                                        
+                                    </div>
+                                    <div class="item-content">
+                                        <p>TOEFL Preparation</p>
+                                    </div>
+                                </div>
+                            </section>
+
+                            <section class="work-section py-3">
+                                <h3 class="text-uppercase resume-section-heading mb-4">Experience</h3>
+                                <div class="item mb-3">
+                                    <div class="item-heading row align-items-center mb-2">
+                                        <h4 class="item-title col-12 col-md-6 col-lg-8 mb-2 mb-md-0">PT. Asahimas Chemical</h4>
+                                        <div class="item-meta col-12 col-md-6 col-lg-4 text-muted text-left text-md-right">2018</div>
+                                        
+                                    </div>
+                                    <div class="item-content">
+                                        <p>Internship as a Process Engineer at VCM-3 (Viniyl Chloride Monomer) Plant. Learned how the process of formation of vinyl chloride monomer that will be used to form polyvinyl chloride. I was given a special assignment to evaluate heat exchanger in section 800 in VCM-3 Plant.</p>
+                                    </div>
+                                </div>
+                            </section>
+
+                            <section class="work-section py-3">
+                                <h3 class="text-uppercase resume-section-heading mb-4">Achievement / responsibilities</h3>
+                                <div class="item mb-3">
+                                    <div class="item-heading row align-items-center mb-2">
+                                        <p class="item-title col-12 col-md-6 col-lg-8 mb-2 mb-md-0">Recipient of student incentive program kreativitas mahasiswa karya tulis (PKM-KT) penulisan gagasan tertulis (GT) KEMRISTEK DIKTI</p>
+                                        <div class="item-meta col-12 col-md-6 col-lg-4 text-muted text-left text-md-right">2016</div>
+                                    </div>
+                                </div>
+                                <div class="item mb-3">
+                                    <div class="item-heading row align-items-center mb-2">
+                                        <p class="item-title col-12 col-md-6 col-lg-8 mb-2 mb-md-0">Part of Departement Social of Society Lembaga Eksekutif Mahasiswa Fakultas Teknologi Industri UII (2016 - 2017)</p>
+                                        <div class="item-meta col-12 col-md-6 col-lg-4 text-muted text-left text-md-right">2016</div>
+                                    </div>
+                                </div>
+                            </section>
+
+                            <section class="work-section py-3">
+                                <h3 class="text-uppercase resume-section-heading mb-4">Other Project</h3>
+                                <div class="item mb-3">
+                                    <div class="item-heading row align-items-center mb-2">
+                                        <h4 class="item-title col-12 col-md-6 col-lg-8 mb-2 mb-md-0">PKM - P (Participants)</h4>
+                                        <div class="item-meta col-12 col-md-6 col-lg-4 text-muted text-left text-md-right">2016</div>
+                                    </div>
+                                    <div class="item-content">
+                                        <p>Making of Liquid Fertilizer from Liquid Waste</p>
+                                    </div>
+                                </div>
+                                <div class="item mb-3">
+                                    <div class="item-heading row align-items-center mb-2">
+                                        <h4 class="item-title col-12 col-md-6 col-lg-8 mb-2 mb-md-0">Research of Chemical Engineering UII</h4>
+                                        <div class="item-meta col-12 col-md-6 col-lg-4 text-muted text-left text-md-right">2018</div>
+                                    </div>
+                                    <div class="item-content">
+                                        <p>The Effect of Light and Food Composition on Growth of Microalgae Chlorella Vulgaris</p>
+                                    </div>
+                                </div>
+                            </section>
+
+							<section class="work-section py-3">
+                                <h3 class="text-uppercase resume-section-heading mb-4">Training and seminar</h3>
+                                <div class="item mb-3">
+                                    <div class="item-heading row align-items-center mb-2">
+                                        <h4 class="item-title col-12 col-md-6 col-lg-8 mb-2 mb-md-0">Islamic Character Building</h4>
+                                        <div class="item-meta col-12 col-md-6 col-lg-4 text-muted text-left text-md-right">2015</div>
+                                    </div>
+                                    <div class="item-content">
+                                        <p>Place : Universitas Islam Indonesia</p>
+                                    </div>
+                                </div>
+                                <div class="item mb-3">
+                                    <div class="item-heading row align-items-center mb-2">
+                                        <h4 class="item-title col-12 col-md-6 col-lg-8 mb-2 mb-md-0">OHS Training (HAZOP, JSA, HIRAC)</h4>
+                                        <div class="item-meta col-12 col-md-6 col-lg-4 text-muted text-left text-md-right">2017</div>
+                                    </div>
+                                </div>
+                                <div class="item mb-3">
+                                    <div class="item-heading row align-items-center mb-2">
+                                        <h4 class="item-title col-12 col-md-6 col-lg-8 mb-2 mb-md-0">Petroleum Industry Training (PIT)</h4>
+                                        <div class="item-meta col-12 col-md-6 col-lg-4 text-muted text-left text-md-right">2019</div>
+                                    </div>
+                                    <div class="item-content">
+                                        <p>Petrochemical Class<br>Place : Universitas Gadjah Mada</p>
+                                    </div>
+                                </div>
+                            </section>
+
+                            <section class="work-section py-3">
+                                <h3 class="text-uppercase resume-section-heading mb-4">Volunteering</h3>
+                                <div class="item mb-3">
+                                    <div class="item-heading row align-items-center mb-2">
+                                        <h4 class="item-title col-12 col-md-6 col-lg-8 mb-2 mb-md-0">Bakti Sosial Teknik Kimia 2015</h4>
+                                        <div class="item-meta col-12 col-md-6 col-lg-4 text-muted text-left text-md-right">2015</div>
+                                    </div>
+                                    <div class="item-content">
+                                        <p>Marketing</p>
+                                    </div>
+                                </div>
+                                <div class="item mb-3">
+                                    <div class="item-heading row align-items-center mb-2">
+                                        <h4 class="item-title col-12 col-md-6 col-lg-8 mb-2 mb-md-0">JAMBORE Teknik Kimia 2016</h4>
+                                        <div class="item-meta col-12 col-md-6 col-lg-4 text-muted text-left text-md-right">2016</div>
+                                    </div>
+                                    <div class="item-content">
+                                        <p>Procurement</p>
+                                    </div>
+                                </div>
+                                <div class="item mb-3">
+                                    <div class="item-heading row align-items-center mb-2">
+                                        <h4 class="item-title col-12 col-md-6 col-lg-8 mb-2 mb-md-0">Pesona Taaruf UII 2016</h4>
+                                        <div class="item-meta col-12 col-md-6 col-lg-4 text-muted text-left text-md-right">2016</div>
+                                    </div>
+                                    <div class="item-content">
+                                        <p>Consumption</p>
+                                    </div>
+                                </div>
+                                <div class="item mb-3">
+                                    <div class="item-heading row align-items-center mb-2">
+                                        <h4 class="item-title col-12 col-md-6 col-lg-8 mb-2 mb-md-0">FTI Goes to School 2017</h4>
+                                        <div class="item-meta col-12 col-md-6 col-lg-4 text-muted text-left text-md-right">2017</div>
+                                    </div>
+                                    <div class="item-content">
+                                        <p>Treasurer</p>
+                                    </div>
+                                </div>
+                                <div class="item mb-3">
+                                    <div class="item-heading row align-items-center mb-2">
+                                        <h4 class="item-title col-12 col-md-6 col-lg-8 mb-2 mb-md-0">Pelatihan Legislatif Mahasiswa 2017</h4>
+                                        <div class="item-meta col-12 col-md-6 col-lg-4 text-muted text-left text-md-right">2017</div>
+                                    </div>
+                                    <div class="item-content">
+                                        <p>Publication, Decoration, and Documentation</p>
+                                    </div>
+                                </div>
+                                <div class="item mb-3">
+                                    <div class="item-heading row align-items-center mb-2">
+                                        <h4 class="item-title col-12 col-md-6 col-lg-8 mb-2 mb-md-0">EXPLORAPHORIA 2017</h4>
+                                        <div class="item-meta col-12 col-md-6 col-lg-4 text-muted text-left text-md-right">2017</div>
+                                    </div>
+                                    <div class="item-content">
+                                        <p>Publication, Decoration, and Documentation</p>
+                                    </div>
+                                </div>
+                                <div class="item mb-3">
+                                    <div class="item-heading row align-items-center mb-2">
+                                        <h4 class="item-title col-12 col-md-6 col-lg-8 mb-2 mb-md-0">Leadership Organisation Training 2017</h4>
+                                        <div class="item-meta col-12 col-md-6 col-lg-4 text-muted text-left text-md-right">2017</div>
+                                    </div>
+                                    <div class="item-content">
+                                        <p>Health and Marketing</p>
+                                    </div>
+                                </div>
+                                <div class="item mb-3">
+                                    <div class="item-heading row align-items-center mb-2">
+                                        <h4 class="item-title col-12 col-md-6 col-lg-8 mb-2 mb-md-0">KUANTUM FTI 2017</h4>
+                                        <div class="item-meta col-12 col-md-6 col-lg-4 text-muted text-left text-md-right">2017</div>
+                                    </div>
+                                    <div class="item-content">
+                                        <p>Consumption</p>
+                                    </div>
+                                </div>
+                                <div class="item mb-3">
+                                    <div class="item-heading row align-items-center mb-2">
+                                        <h4 class="item-title col-12 col-md-6 col-lg-8 mb-2 mb-md-0">JAMBORE Teknik Kimia 2017</h4>
+                                        <div class="item-meta col-12 col-md-6 col-lg-4 text-muted text-left text-md-right">2017</div>
+                                    </div>
+                                    <div class="item-content">
+                                        <p>Procurement</p>
+                                    </div>
+                                </div>
+                            </section>
+
+						</div><!--//resume-main-->
+						<aside class="resume-aside col-12 col-lg-4 col-xl-3 px-lg-4 pb-lg-4">
+                            <section class="skills-section py-3">
+                                <h3 class="text-uppercase resume-section-heading mb-4">Personal</h3>
+                                <div class="item">
+                                    <ul class="list-unstyled resume-skills-list">
+                                        <li class="mb-2">Date of Birth : Serang, March 22th 1997</li>
+                                        <li class="mb-2">Age : 22 Years</li>
+                                        <li class="mb-2">Address : Jl. Dahlia Blok C4/4 BBS 2 Ciwedus, Cilegon, Banten 42418</li>
+                                    </ul>
+                                </div>
+                            </section>
+
+							<section class="skills-section py-3">
+								<h3 class="text-uppercase resume-section-heading mb-4">Technical Skills</h3>
+								<div class="item">
+    								<ul class="list-unstyled resume-skills-list">
+    									<li class="mb-2">Microsoft Office</li>
+    									<li class="mb-2">Corel Draw</li>
+										<li class="mb-2">Microsoft Visio</li>
+										<li class="mb-2">Office Administration</li>
+									</ul>
+                                </div>
+							</section>
+
+                            <section class="skills-section py-3">
+                                <h3 class="text-uppercase resume-section-heading mb-4">Professional Skills</h3>
+                                
+                                <div class="item">
+                                    <ul class="list-unstyled resume-skills-list">
+                                        <li class="mb-2">Written and verbal communication</li>
+                                        <li class="mb-2">Ability to work independently or as a part of team</li>
+                                        <li class="mb-2">Familiar with AutoCAD, ChemCad, and Aspen Plus</li>
+                                        <li class="mb-2">Proven leadership skills and ability to motivate</li>
+                                    </ul>
+                                </div>
+                            </section>
+
+							<section class="skills-section py-3">
+								<h3 class="text-uppercase resume-section-heading mb-4">Languages</h3>
+	       							<ul class="list-unstyled resume-lang-list">
+                                        <li class="mb-2">Indonesian <span class="text-muted">(Native)</span></li>
+										<li class="mb-2">English <span class="text-muted">(Proficient)</span></li>
+										<li class="mb-2">Korean <span class="text-muted">(Elementary)</span></li>
+									</ul>
+							</section>
+
+                            <section class="skills-section py-3">
+                                <h3 class="text-uppercase resume-section-heading mb-4">Contact</h3>
+                                    <ul class="list-unstyled resume-lang-list">
+                                        <li class="mb-2"><i class="fab fa-whatsapp fa-2x mr-2" data-fa-transform="down-4"></i> +6287775940866</span></li>
+                                        <li class="mb-2"><i class="fab fa-instagram fa-2x mr-2" data-fa-transform="down-4"></i> endahsrswt</span></li>
+                                        <li class="mb-2"><i class="fas fa-envelope-square fa-2x mr-2" data-fa-transform="down-4"></i> saraswati.endah22@gmail.com</span></li>
+                                        <li class="mb-2"><i class="fab fa-linkedin fa-2x mr-2" data-fa-transform="down-4"></i> linkedin.com/in/endah-saraswati-a90941182</span></li>
+                                    </ul>
+                            </section>
+									
+								</aside>
+							</div><!--//row-->
+						</div><!--//resume-body-->
+					</article>
+					
+				</div><!--//container-->
+				
+				<footer class="footer text-center py-4">
+					<small class="copyright text-muted">Designed with <i class="fas fa-heart"></i> by Endah Saraswati</small>
+				</footer>
+				
+			</div><!--//main-wrapper-->
+			
+
+</body>
+</html> 
+
